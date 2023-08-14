@@ -1,0 +1,22 @@
+{
+  "platform-version": "2.3",
+  "product": {
+    "freshdesk": {
+      "location": {
+        "ticket_sidebar": {
+          "url": "index.html",
+          "icon": "styles/images/contract.png"
+        }
+      },
+      "requests": {
+        "getchat": {},
+        "convos" : {},
+        "createnote": {}
+      }
+    }
+  },
+  "engines": {
+    "node": "18.16.1",
+    "fdk": "9.0.2"
+  }
+}

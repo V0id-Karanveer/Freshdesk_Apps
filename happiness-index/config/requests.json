@@ -1,0 +1,25 @@
+{
+    "getchat": {
+        "schema": {
+            "method": "POST",
+            "host": "api.openai.com",
+            "path": "/v1/chat/completions",
+            "headers": {
+                "Authorization": "Bearer ",
+                "Content-Type": "application/json"
+            }
+        }
+    },
+    "convos": {
+        "schema": {
+            "method": "GET",
+            "host": ".freshdesk.com",
+            "path": "/api/v2/tickets/<%= context.ticket_id %>/conversations",
+            "headers": {
+                "Authorization": "Basic <%= context.apikey %>",
+                "Content-Type": "application/json"
+            }
+        }
+
+    }
+}
