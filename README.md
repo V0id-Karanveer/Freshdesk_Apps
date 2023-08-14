@@ -1,0 +1,5 @@
+![Freshdesk Applications_page-0001](https://github.com/V0id-Karanveer/Freshdesk_Apps/assets/117469425/38054632-3d54-4862-a6cb-c66e4ee6e2d1)
+![Freshdesk Applications_page-0003](https://github.com/V0id-Karanveer/Freshdesk_Apps/assets/117469425/f1d24579-ae2a-43ea-b0f5-4d88a8c198f5)
+![Freshdesk Applications_page-0004](https://github.com/V0id-Karanveer/Freshdesk_Apps/assets/117469425/685e9d73-6933-41e7-b3f7-bfd453a62e04)
+![Freshdesk Applications_page-0005](https://github.com/V0id-Karanveer/Freshdesk_Apps/assets/117469425/26f8a0c4-3865-4e05-8fbc-d5e9de661e56)
+![Freshdesk Applications_page-0006](https://github.com/V0id-Karanveer/Freshdesk_Apps/assets/117469425/73b4972f-4f4f-46f2-8bee-5786ac71b00d)
